@@ -10,7 +10,6 @@ Feature :
 - Automatic create table
 
 Installation
-- Open file db.php
-- Change database variable setting value (db_host,db_user,db_pass,db_name)
+- Open file *db.php*, change database variable setting value (db_host,db_user,db_pass,db_name) to your mysql config
 - On your browser run http://localhost/php_native_crud/create_table.php
 - On your browser run http://localhost/php_native_crud/
