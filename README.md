@@ -7,6 +7,7 @@ Feature :
 - Add
 - Edit
 - Delete
+- Automatic create table
 
 Installation
 - Open file db.php
